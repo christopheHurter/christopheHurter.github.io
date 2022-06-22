@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/https//christophehurter.github.io/renderline/static/css/main.008cfa6c.css",
+    "main.js": "/https//christophehurter.github.io/renderline/static/js/main.c855141e.js",
+    "static/media/video.mp4": "/https//christophehurter.github.io/renderline/static/media/video.c709661d219afdd84999.mp4",
+    "static/media/shipVideo.mp4": "/https//christophehurter.github.io/renderline/static/media/shipVideo.9ba10682f28231afed44.mp4",
+    "static/media/earth.jpg": "/https//christophehurter.github.io/renderline/static/media/earth.698dd2f0f3f5edab085e.jpg",
+    "static/media/Paris 3.png": "/https//christophehurter.github.io/renderline/static/media/Paris 3.cc2287cb6e467e5faf0e.png",
+    "static/media/France.png": "/https//christophehurter.github.io/renderline/static/media/France.c525b09ae597a33d393f.png",
+    "static/media/France Covid.png": "/https//christophehurter.github.io/renderline/static/media/France Covid.1739806d5c6ed69406a1.png",
+    "static/media/imgFlightAware.png": "/https//christophehurter.github.io/renderline/static/media/imgFlightAware.e8145502b3f784fdd889.png",
+    "static/media/imgExoa.jpg": "/https//christophehurter.github.io/renderline/static/media/imgExoa.c134822be82089c4077f.jpg",
+    "static/media/logo-RenderLine-without-text-line.svg": "/https//christophehurter.github.io/renderline/static/media/logo-RenderLine-without-text-line.ca46579330337ba7fe333a5047adf86f.svg",
+    "static/media/photo1.jpg": "/https//christophehurter.github.io/renderline/static/media/photo1.059e4d2037786980c73b.jpg",
+    "static/media/photo2.jpg": "/https//christophehurter.github.io/renderline/static/media/photo2.cbb32095b05d5ce3ea30.jpg",
+    "static/media/photo6.jpg": "/https//christophehurter.github.io/renderline/static/media/photo6.8ebabb3eccaacb287fe4.jpg",
+    "index.html": "/https//christophehurter.github.io/renderline/index.html",
+    "static/media/left-arrow.svg": "/https//christophehurter.github.io/renderline/static/media/left-arrow.53878c51904c34f1288e46174c107c57.svg",
+    "static/media/right-arrow.svg": "/https//christophehurter.github.io/renderline/static/media/right-arrow.8b8fb639d7ed68731e5b073c0700d3bf.svg",
+    "main.008cfa6c.css.map": "/https//christophehurter.github.io/renderline/static/css/main.008cfa6c.css.map",
+    "main.c855141e.js.map": "/https//christophehurter.github.io/renderline/static/js/main.c855141e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.008cfa6c.css",
+    "static/js/main.c855141e.js"
+  ]
+}
